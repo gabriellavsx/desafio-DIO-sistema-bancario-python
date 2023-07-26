@@ -1,4 +1,7 @@
 menu = """
+Bem vindo ao BANCO DO BRASIL!
+Abaixo está disponível o menu:
+
 ===============MENU===============
 Escolha uma opção:
 
